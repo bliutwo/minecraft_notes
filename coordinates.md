@@ -1,7 +1,7 @@
 Location | Command
 --- | ---
 Orig. Home | `/tp 100.300 65 87.099`
-Orig. Home *Underground* | `/tp 71.928 39 74.384`
+Orig. Home *Underground Base* | `/tp 71.928 39 74.384`
 Orig. Home *Farm Chest* | `/tp 80.174 64 36.938`
 Seaview Home | `/tp 1759.140 64 1313.325`
 Seaview Home *Trees* | `/tp 1755.186 64 1396.220`

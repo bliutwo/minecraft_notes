@@ -8,6 +8,10 @@
 - Sea pickle
 - Chorus Fruit
 
+## Crops we have and *want to* farm
+
+- Cocoa beans (harvested from cocoa plants)
+
 ## Crops we have and *are* farming
 
 - Wheat
@@ -16,7 +20,6 @@
 - Potatoes
 - Sugarcane
 - Pumpkin
-- Cocoa beans (harvested from cocoa plants)
 - Sweet berries (for foxes)
 - Mushrooms
 

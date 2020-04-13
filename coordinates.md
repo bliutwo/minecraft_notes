@@ -5,6 +5,7 @@ Orig. Home *Underground Base* | `/tp 71.928 39 74.384`
 Orig. Home *Farm Chest* | `/tp 80.174 64 36.938`
 Seaview Home | `/tp 1759.140 64 1313.325`
 Seaview Home *Trees* | `/tp 1755.186 64 1396.220`
+Seaview Home *Sand* | `/tp 1729.592 61 1367.221`
 **Potential fox area** | `/tp 541.093 64 486.736`
 Witch house | `/tp 286.380 64 375.182`
 Next-to-desert house | `/tp -419.123 64 -347.780`

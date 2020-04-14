@@ -17,3 +17,4 @@ Seaside desert peninsula town(s) | `/tp -200.300 63 -1174.613`
 Desert town with Tower | `/tp -870.141 69 -419.700`
 Seaside desert peninsula *with turtle* | `/tp -1261.993 63 -447.163`
 **Llamas** | `/tp -263.175 78 -161.294`
+**Potential fox area** | `/tp -82.185 78 -3.948`

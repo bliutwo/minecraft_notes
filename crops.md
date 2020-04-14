@@ -2,7 +2,8 @@
 
 ## Crops we *don't* have
 
-- Melon (Watermelon)
+- **Apple**
+- **Melon (Watermelon)**
 - Bamboo
 - Kelp
 - Sea pickle

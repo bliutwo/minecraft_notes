@@ -11,6 +11,7 @@ Seaview Home *Sand* | `/tp 1729.592 61 1367.221`
 Witch house | `/tp 286.380 64 375.182`
 **Savannah!** (Next-to-desert) house | `/tp -419.123 64 -347.780`
 Cave near Savannah house | `/tp -395.899 67 -294.908`
+Cave last spot | `/tp -420.943 36 -351.515`
 Desert start | `/tp -554.756 66 -447.671`
 Seaside desert peninsula town(s) | `/tp -200.300 63 -1174.613`
 Desert town with Tower | `/tp -870.141 69 -419.700`

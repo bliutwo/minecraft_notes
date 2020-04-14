@@ -9,7 +9,7 @@ Seaview Home *Trees* | `/tp 1755.186 64 1396.220`
 Seaview Home *Sand* | `/tp 1729.592 61 1367.221`
 **Potential fox area** | `/tp 541.093 64 486.736`
 Witch house | `/tp 286.380 64 375.182`
-Next-to-desert house | `/tp -419.123 64 -347.780`
+Next-to-desert (**Savannah!**) house | `/tp -419.123 64 -347.780`
 Desert start | `/tp -554.756 66 -447.671`
 Seaside desert peninsula town(s) | `/tp -200.300 63 -1174.613`
 Desert town with Tower | `/tp -870.141 69 -419.700`

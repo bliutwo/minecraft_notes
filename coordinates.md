@@ -16,4 +16,4 @@ Desert start | `/tp -554.756 66 -447.671`
 Seaside desert peninsula town(s) | `/tp -200.300 63 -1174.613`
 Desert town with Tower | `/tp -870.141 69 -419.700`
 Seaside desert peninsula *with turtle* | `/tp -1261.993 63 -447.163`
-
+llamas | `/tp -263.175 78 -161.294`

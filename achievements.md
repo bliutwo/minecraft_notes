@@ -4,10 +4,10 @@ This contains our notes on achivements.
 
 ## Bee Our Guest
 
-- [ ] Campfire
-  - [ ] Stripped log
-  - [ ] Coal
-  - [ ] Sticks
+- [x] Campfire
+  - [x] Stripped log
+  - [x] Coal
+  - [x] Sticks
 - [ ] Bottle
 
 ## Total Beelocation

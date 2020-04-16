@@ -4,4 +4,5 @@ This contains our notes on achivements.
 
 ## Total Beelocation
 
-Beehive location: `/tp -963.966 68 -989.093`
+- Beehive 1 location: `/tp -963.966 68 -989.093`
+- Beehive 2 location: `/tp `

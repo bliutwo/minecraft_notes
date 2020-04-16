@@ -28,3 +28,5 @@ Cool place underwater with resources | `/tp -2482.598 11 1656.439`
 Ship | `/tp -2220.505 64 1904.336`
 Desert village with cats | `/tp -2456.517 74 879.700`
 Ship 2 | `/tp -2763.973 72.63920 -932.334`
+Polar bear | `/tp -1485.438 81.25853 -3620.283`
+Frozen ocean | -1326.201 84.63352 -4053.375

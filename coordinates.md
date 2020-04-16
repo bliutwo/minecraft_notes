@@ -36,3 +36,6 @@ Snowy-tundra village with igloo | `/tp 830.363 68 -4059.949`
 Underground next to treasure | `/tp -2151.700 39 1884.300`
 Sand village with cats | `/tp -764.891 64 -960.115`
 A lot of sand here! | `/tp -525.681 72 -1363.540`
+Plains village | `/tp -2700.481 66.93750 -2424.531`
+South village | `/tp 7005.995 75 -325.716`
+Village in forest | `/tp 7493.137 67.87500 -356.3000`

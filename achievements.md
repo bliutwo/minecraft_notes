@@ -4,6 +4,8 @@ This contains our notes on achivements.
 
 ## Bee Our Guest
 
+DONE!
+
 - [x] Campfire
   - [x] Stripped log
   - [x] Coal

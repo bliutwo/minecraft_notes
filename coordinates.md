@@ -1,7 +1,7 @@
 Location | Command
 --- | ---
 Orig. Home | `/tp 100.300 65 87.099`
-Orig. Home *Fishing Spot* | `/tp 109.731 63.09375 94.508`
+Orig. Home *Fishing Spot* | `/tp 100.580 63 103.433``
 Orig. Home *Underground Base* | `/tp 71.928 39 74.384`
 Orig. Home *Farm Chest* | `/tp 80.174 64 36.938`
 Seaview Home | `/tp 1759.140 64 1313.325`

@@ -39,3 +39,4 @@ A lot of sand here! | `/tp -525.681 72 -1363.540`
 Plains village | `/tp -2700.481 66.93750 -2424.531`
 South village | `/tp 7005.995 75 -325.716`
 Village in forest | `/tp 7493.137 67.87500 -356.3000`
+Village over cliff | `/tp -3435.932 75 -2986.641`

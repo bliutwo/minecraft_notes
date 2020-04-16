@@ -34,3 +34,4 @@ Snowy-tundra village | `/tp 744.844 67.56250 -4258.152`
 Nether portal (in Nether) | `/tp 1.786 75 -6.162`
 Snowy-tundra village with igloo | `/tp 830.363 68 -4059.949`
 Underground next to treasure | `/tp -2151.700 39 1884.300`
+Sand village with cats | `/tp -764.891 64 -960.115`

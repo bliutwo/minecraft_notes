@@ -45,3 +45,5 @@ Beehive 1 location | `/tp -963.966 68 -989.093`
 Beehive 2 location | `/tp -1872.690 64 -1605.044`
 Orig. Home *Chest underground* | `/tp 68.300 14 62.712`
 Orig. Home *Stairs* | `/tp 60.896 6 14.345`
+taiga building with chest box | `/tp 8735.075 83.10883 -501.609`
+treasure map #2 | `/tp 8995.719 68 -491.277`

@@ -22,3 +22,4 @@ Where I was flying while looking for jungle biome | `/tp -42.791 66 690.969`
 Dark forest mansion | `/tp -2119.857 77 3135.454`
 Edge of jungle |`/tp 5051.030 89 4765.805`
 South village | `/tp 325.438 97.74881 1220.565`
+Southwest Village | `/tp 108.302 66 1759.379`

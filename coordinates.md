@@ -27,7 +27,7 @@ Jungle on edge of map | `/tp 1990.933 119.89627 1834.546`
 Cool place underwater with resources | `/tp -2482.598 11 1656.439`
 Ship | `/tp -2220.505 64 1904.336`
 Desert village with cats | `/tp -2456.517 74 879.700`
-Ship 2 | `/tp -2763.973 72.63920 -932.334`
+Ship 2 (treasure) | `/tp -2763.973 72.63920 -932.334`
 Polar bear | `/tp -1485.438 81.25853 -3620.283`
 Frozen ocean | -1326.201 84.63352 -4053.375
 Snowy-tundra village | `/tp 744.844 67.56250 -4258.152`

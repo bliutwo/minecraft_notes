@@ -2,6 +2,11 @@
 
 This contains our notes on achivements.
 
+## Bee Our Guest
+
+- [ ] Campfire
+- [ ] Bottle
+
 ## Total Beelocation
 
 DONE!

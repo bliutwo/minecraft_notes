@@ -5,6 +5,9 @@ This contains our notes on achivements.
 ## Bee Our Guest
 
 - [ ] Campfire
+  - [ ] Stripped log
+  - [ ] Coal
+  - [ ] Sticks
 - [ ] Bottle
 
 ## Total Beelocation

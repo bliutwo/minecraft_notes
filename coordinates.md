@@ -26,3 +26,4 @@ Southwest Village | `/tp 108.302 66 1759.379`
 Jungle on edge of map | `/tp 1990.933 119.89627 1834.546`
 Cool place underwater with resources | `/tp -2482.598 11 1656.439`
 Ship | `tp -2220.505 64 1904.336`
+Desert village with cats | `/tp -2456.517 74 879.700`

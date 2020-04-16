@@ -32,3 +32,4 @@ Polar bear | `/tp -1485.438 81.25853 -3620.283`
 Frozen ocean | -1326.201 84.63352 -4053.375
 Snowy-tundra village | `/tp 744.844 67.56250 -4258.152`
 Nether portal (in Nether) | `/tp 1.786 75 -6.162`
+Snowy-tundra village with igloo | `/tp 830.363 68 -4059.949`

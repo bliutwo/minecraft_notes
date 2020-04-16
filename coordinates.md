@@ -4,6 +4,7 @@ Orig. Home | `/tp 100.300 65 87.099`
 Orig. Home *Fishing Spot* | `/tp 100.580 63 103.433`
 Orig. Home *Underground Base* | `/tp 71.928 39 74.384`
 Orig. Home *Farm Chest* | `/tp 80.174 64 36.938`
+Orig. Home *Enchanting Table* | `/tp 78.885 39 66.547`
 Seaview Home | `/tp 1759.140 64 1313.325`
 Seaview Home *Trees* | `/tp 1755.186 64 1396.220`
 Seaview Home *Sand* | `/tp 1729.592 61 1367.221`

@@ -48,3 +48,6 @@ Orig. Home *Stairs* | `/tp 60.896 6 14.345`
 taiga building with chest box | `/tp 8735.075 83.10883 -501.609`
 treasure map #2 | `/tp 8995.719 68 -491.277`
 3 turtles here | `/tp 11202.877 63 -580.677`
+panda | `/tp 1990.290 69 2389.293`
+flower forest village | `/tp 16489.467 65 -185.939`
+zombie village | `/tp 17645.674 72 -196.231`

@@ -1,6 +1,6 @@
 # minecraft_notes
 
-Server: `192.168.1.100:25565`
+Server: `192.168.1.114:25565`
 
 Command to start server:
 

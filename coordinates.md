@@ -51,3 +51,4 @@ treasure map #2 | `/tp 8995.719 68 -491.277`
 panda | `/tp 1990.290 69 2389.293`
 flower forest village | `/tp 16489.467 65 -185.939`
 zombie village | `/tp 17645.674 72 -196.231`
+Fox Farm | `/tp 8605.300 63.0000 -605.700`

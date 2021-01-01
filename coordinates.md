@@ -67,3 +67,4 @@ Cave place | `/tp 501.049 55 418.218`
 Cave entrance | `/tp 500.661 69 415.245`
 Cool place in cave | `/tp 477.506 37 423.919`
 Same cave, more resources | `/tp 415.857 29 428.649`
+Nether portal in nether | `/tp 55.326 66 65.111`

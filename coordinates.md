@@ -61,5 +61,5 @@ Fox Farm | `/tp 8605.300 63.0000 -605.700`
 
 Location | Command
 --- | ---
-Home |
-Nether Shrine / Door to Nether | `/tp 100.300 65 87.099`
+Home | `/tp 474.500 67.56250 426.500`
+Nether Shrine / Door to Nether | `/tp 884.788 74 307.340`

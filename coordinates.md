@@ -1,3 +1,7 @@
+# World Coordinates
+
+## World from HP Desktop
+
 Location | Command
 --- | ---
 Orig. Home | `/tp 100.300 65 87.099`
@@ -52,3 +56,8 @@ panda | `/tp 1990.290 69 2389.293`
 flower forest village | `/tp 16489.467 65 -185.939`
 zombie village | `/tp 17645.674 72 -196.231`
 Fox Farm | `/tp 8605.300 63.0000 -605.700`
+
+## New World on Razer (12/31/20)
+
+Home | 
+Nether Shrine / Door to Nether | `/tp 100.300 65 87.099`

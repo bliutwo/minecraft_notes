@@ -59,5 +59,7 @@ Fox Farm | `/tp 8605.300 63.0000 -605.700`
 
 ## New World on Razer (12/31/20)
 
-Home | 
+Location | Command
+--- | ---
+Home |
 Nether Shrine / Door to Nether | `/tp 100.300 65 87.099`

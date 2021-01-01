@@ -64,3 +64,4 @@ Location | Command
 Home | `/tp 474.500 67.56250 426.500`
 Nether Shrine / Door to Nether | `/tp 884.788 74 307.340`
 Cave place | `/tp 501.049 55 418.218`
+Cave entrance | `/tp 500.661 69 415.245`

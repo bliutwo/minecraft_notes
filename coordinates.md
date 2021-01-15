@@ -56,6 +56,7 @@ panda | `/tp 1990.290 69 2389.293`
 flower forest village | `/tp 16489.467 65 -185.939`
 zombie village | `/tp 17645.674 72 -196.231`
 Fox Farm | `/tp 8605.300 63.0000 -605.700`
+Combat spot | `/tp 226.403 69 21.337`
 
 ## New World on Razer (12/31/20)
 

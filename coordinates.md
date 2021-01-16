@@ -62,6 +62,7 @@ Map Journey Bookmark | `/tp 4716.303 66 -1179.312`
 Jungle on the way to find the x | `/tp 5152.763 90 -1177.447`
 Witch's house with cat | `/tp 5940.432 65 -1211.492`
 Found some foxes | `/tp 7207.715 80 -1208.292`
+Found a farm or shrine of some sort | `/tp 7477.634 77 -1239.058`
 
 ## New World on Razer (12/31/20)
 

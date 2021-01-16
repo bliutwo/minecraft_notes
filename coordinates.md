@@ -60,6 +60,7 @@ Combat spot | `/tp 226.403 69 21.337`
 Tower in the Sky | `/tp 222.825 94 23.259`
 Map Journey Bookmark | `/tp 4716.303 66 -1179.312`
 Jungle on the way to find the x | `/tp 5152.763 90 -1177.447`
+Witch's house with cat | `/tp 5940.432 65 -1211.492`
 
 ## New World on Razer (12/31/20)
 

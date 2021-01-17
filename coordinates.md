@@ -64,6 +64,7 @@ Witch's house with cat | `/tp 5940.432 65 -1211.492`
 Found some foxes | `/tp 7207.715 80 -1208.292`
 Found a farm or shrine of some sort | `/tp 7477.634 77 -1239.058`
 Treasure map location | `/tp 9325.665 65 -1187.323`
+Island in swamp | `/tp 447.316 64 614.028`
 
 ## New World on Razer (12/31/20)
 

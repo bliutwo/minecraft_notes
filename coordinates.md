@@ -66,6 +66,7 @@ Found a farm or shrine of some sort | `/tp 7477.634 77 -1239.058`
 Treasure map location | `/tp 9325.665 65 -1187.323`
 Island in swamp | `/tp 447.316 64 614.028`
 My House In Sky | `/tp 220.661 98 9.185`
+Yuxi's new house | `/tp 345.976 67 669.540`
 
 ## New World on Razer (12/31/20)
 

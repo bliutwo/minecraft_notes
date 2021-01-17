@@ -69,6 +69,7 @@ My House In Sky | `/tp 220.661 98 9.185`
 Yuxi's new house | `/tp 345.976 67 669.540`
 Broken Nether Gate | `/tp 805.744 65 2719.283`
 Village | `/tp 858.453 68.93750 2858.249`
+Stone Shrine with Treasure Map | `/tp 1025.718 65 2881.935`
 
 ## New World on Razer (12/31/20)
 
